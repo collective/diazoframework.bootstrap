@@ -48,9 +48,9 @@
       </header>
                               -->
   </replace>
-
+<!--
   <replace content="//*[@class='selected']/@class">
       <xsl:attribute name="class">active</xsl:attribute>
   </replace>
-
+-->
 </rules>

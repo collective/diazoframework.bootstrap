@@ -6,6 +6,12 @@ Changelog
 
 - Fixed the 'Cannot add attributes to an element if children have 
   been already added to the element.' error at 'Twitter Bootstrap 
+  Marketing Narrow Theme' header rules for selected class with a 
+  replace content directive
+  [macagua]
+
+- Fixed the 'Cannot add attributes to an element if children have 
+  been already added to the element.' error at 'Twitter Bootstrap 
   Starter Theme' header rules for selected class with a replace 
   content directive
   [macagua]
