@@ -4,4 +4,7 @@ Changelog
 1.0dev (unreleased)
 -------------------
 
+- Changed URL for the html5shiv library
+  [macagua]
+
 - Initial release
