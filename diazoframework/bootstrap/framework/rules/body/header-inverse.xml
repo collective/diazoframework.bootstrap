@@ -67,11 +67,11 @@
       </li>
     </ul>
   </replace>
-
+<!--
   <replace content="//*[@class='selected']/@class">
       <xsl:attribute name="class">active</xsl:attribute>
   </replace>
-
+-->
   <drop css:content="#portal-globalnav"/>
   <drop css:content="#portal-searchbox"/>
   <drop css:content="#portal-personaltools-wrapper"/>
