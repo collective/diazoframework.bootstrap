@@ -115,7 +115,7 @@ directory with following resources files:
 Current themes
 ==============
 
-The `diazoframework.bootstrap <https://github.com/TH-code/diazoframework.bootstrap>`_ package have the following themes:
+The `diazoframework.bootstrap <https://github.com/collective/diazoframework.bootstrap>`_ package have the following themes:
 
 - `diazotheme.bootstrap <https://github.com/TH-code/diazotheme.bootstrap>`_
    which contains themes that can both be used as starters for your own Twitter Bootstrap based theme.
@@ -129,8 +129,8 @@ For more frameworks see: `diazoframework.plone <https://github.com/TH-code/diazo
 Contribute
 ==========
 
-- Issue Tracker: https://github.com/TH-code/diazoframework.bootstrap/issues
-- Source Code: https://github.com/TH-code/diazoframework.bootstrap
+- Issue Tracker: https://github.com/collective/diazoframework.bootstrap/issues
+- Source Code: https://github.com/collective/diazoframework.bootstrap
 
 
 License
@@ -150,10 +150,10 @@ Amazing contributions
 
 - Leonardo J. Caballero G. aka macagua (leonardocaballero at gmail dot com).
 
-You can find an updated list of package contributors on https://github.com/TH-code/diazoframework.bootstrap/contributors
+You can find an updated list of package contributors on https://github.com/collective/diazoframework.bootstrap/contributors
 
 
 .. _`Twitter Bootstrap CSS framework`: http://twitter.github.io/bootstrap/
-.. _`diazoframework.bootstrap`: https://github.com/TH-code/diazoframework.bootstrap
+.. _`diazoframework.bootstrap`: https://github.com/collective/diazoframework.bootstrap
 .. _`Diazo`: http://diazo.org
 .. _`plone.app.theming`: https://pypi.org/project/plone.app.theming/
