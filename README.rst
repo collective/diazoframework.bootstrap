@@ -119,11 +119,13 @@ The `diazoframework.bootstrap <https://github.com/collective/diazoframework.boot
 
 - `diazotheme.bootstrap <https://github.com/TH-code/diazotheme.bootstrap>`_
    which contains themes that can both be used as starters for your own Twitter Bootstrap based theme.
-- `diazotheme.bootswatch <https://github.com/TH-code/diazotheme.bootswatch>`_
+- `diazotheme.bootswatch <https://github.com/collective/diazotheme.bootswatch>`_
    A bootswatch childthemes examples from ``diazoframework.bootstrap``.
+- `diazotheme.frameworks <https://github.com/collective/diazotheme.frameworks>`_
+   A collection of Diazo themes with support to many CSS Frameworks like *Twitter Bootstrap*.
 
 
-For more frameworks see: `diazoframework.plone <https://github.com/TH-code/diazoframework.plone#current-frameworks>`_
+For more frameworks see: `diazoframework.plone <https://github.com/collective/diazoframework.plone#current-frameworks>`_
 
 
 Contribute
